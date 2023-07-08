@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.f5bae5c9.css","mappings":"AAAA,MACI,iBACJ,CACA,WACA,cACA,CACA,IACI,cACJ,CACA,UACI,SACJ","sources":["ReactCRUD/css/style.css"],"sourcesContent":["th,td{\r\n    text-align: center;\r\n}\r\n.fa,.badge{\r\ncursor: pointer;\r\n}\r\n.fa{\r\n    font-size: 19px;\r\n}\r\n.fa-trash{\r\n    color: red;\r\n}"],"names":[],"sourceRoot":""}

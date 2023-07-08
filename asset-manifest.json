@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CrudApp-React/static/css/main.f5bae5c9.css",
+    "main.js": "/CrudApp-React/static/js/main.4aceb16c.js",
+    "index.html": "/CrudApp-React/index.html",
+    "main.f5bae5c9.css.map": "/CrudApp-React/static/css/main.f5bae5c9.css.map",
+    "main.4aceb16c.js.map": "/CrudApp-React/static/js/main.4aceb16c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5bae5c9.css",
+    "static/js/main.4aceb16c.js"
+  ]
+}
