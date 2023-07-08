@@ -1,0 +1,12 @@
+th,td{
+    text-align: center;
+}
+.fa,.badge{
+cursor: pointer;
+}
+.fa{
+    font-size: 19px;
+}
+.fa-trash{
+    color: red;
+}
